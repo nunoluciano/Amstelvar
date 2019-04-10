@@ -1,0 +1,8 @@
+lookup dollar {
+    sub dollar by dollar.copy_1;
+} dollar;
+
+feature rvrn {
+    sub A by B;
+} rvrn;
+

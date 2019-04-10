@@ -592,6 +592,8 @@
     <string>divisionslash.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.copy_1</key>
+    <string>dollar.copy_1.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
     <key>dotaccent</key>
