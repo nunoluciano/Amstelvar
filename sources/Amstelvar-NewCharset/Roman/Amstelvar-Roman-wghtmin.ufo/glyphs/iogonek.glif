@@ -4,12 +4,6 @@
   <unicode hex="012F"/>
   <outline>
     <component base="i"/>
-    <component base="ogonekcomb" xOffset="-146" yOffset="7"/>
+    <component base="ogonekcomb" xOffset="-148.80000000001746" yOffset="32"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5333,0.7922,0.5255,1</string>
-    </dict>
-  </lib>
 </glyph>

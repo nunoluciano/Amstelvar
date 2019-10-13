@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisbelowcomb" format="2">
   <advance width="1024"/>
+  <unicode hex="0324"/>
   <outline>
     <contour>
       <point x="149" y="-279" type="qcurve" smooth="yes"/>
@@ -31,10 +32,4 @@
       <point x="609" y="-339"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9961,1,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

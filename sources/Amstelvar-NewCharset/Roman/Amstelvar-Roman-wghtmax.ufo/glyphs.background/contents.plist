@@ -44,6 +44,8 @@
     <string>I_.glif</string>
     <key>IJacute</key>
     <string>I_J_acute.glif</string>
+    <key>Iacute_J.loclNLD</key>
+    <string>I_acute_J_.loclN_L_D_.glif</string>
     <key>J</key>
     <string>J_.glif</string>
     <key>K</key>
@@ -144,6 +146,8 @@
     <string>brevebelowcomb.glif</string>
     <key>brevebelowcomb.case</key>
     <string>brevebelowcomb.case.glif</string>
+    <key>brevecombstack.case</key>
+    <string>brevecombstack.case.glif</string>
     <key>breveinvertedcomb</key>
     <string>breveinvertedcomb.glif</string>
     <key>breveinvertedcomb.case</key>
@@ -186,6 +190,8 @@
     <string>divisionslash.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.copy_1</key>
+    <string>dollar.copy_1.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
     <key>dotbelowcomb</key>
@@ -198,6 +204,8 @@
     <string>ecircumflexacute.glif</string>
     <key>ecircumflexdotbelow</key>
     <string>ecircumflexdotbelow.glif</string>
+    <key>ecircumflexgrave</key>
+    <string>ecircumflexgrave.glif</string>
     <key>ecircumflexhookabove</key>
     <string>ecircumflexhookabove.glif</string>
     <key>ecircumflextilde</key>
@@ -224,12 +232,8 @@
     <string>f_f.glif</string>
     <key>f_f_i</key>
     <string>f_f_i.glif</string>
-    <key>f_f_ij</key>
-    <string>f_f_ij.glif</string>
     <key>f_f_l</key>
     <string>f_f_l.glif</string>
-    <key>f_ij</key>
-    <string>f_ij.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
     <key>five</key>
@@ -278,6 +282,8 @@
     <string>hungarumlaut.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>iacute_j.loclNLD</key>
+    <string>iacute_j.loclN_L_D_.glif</string>
     <key>idotless</key>
     <string>idotless.glif</string>
     <key>ijacute</key>
@@ -338,6 +344,8 @@
     <string>ocircumflexacute.glif</string>
     <key>ocircumflexhookabove</key>
     <string>ocircumflexhookabove.glif</string>
+    <key>ocircumflextilde</key>
+    <string>ocircumflextilde.glif</string>
     <key>odieresismacron</key>
     <string>odieresismacron.glif</string>
     <key>odotaccentmacron</key>

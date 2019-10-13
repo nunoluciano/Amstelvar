@@ -4,12 +4,6 @@
   <unicode hex="0141"/>
   <outline>
     <component base="L"/>
-    <component base="diagonalbarl" xOffset="181" yOffset="28"/>
+    <component base="diagonalbarl" xOffset="163" yOffset="53.5"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.3216,0.6784,0.4118,1</string>
-    </dict>
-  </lib>
 </glyph>

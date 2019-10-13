@@ -564,8 +564,6 @@
           <string>fl</string>
           <string>f_f_i</string>
           <string>f_f_l</string>
-          <string>f_f_ij</string>
-          <string>f_ij</string>
           <string>gravecomb.case</string>
           <string>acutecomb.case</string>
           <string>circumflexcomb.case</string>
@@ -602,7 +600,41 @@
           <string>nine.lf</string>
           <string>minute</string>
           <string>second</string>
-          <string>caron.alt</string>
+          <string>caroncomb.alt</string>
+          <string>Uhookabove</string>
+          <string>uhookabove</string>
+          <string>primemod</string>
+          <string>doubleprimemod</string>
+          <string>apostrophemod</string>
+          <string>hyphentwo</string>
+          <string>horizontalbar</string>
+          <string>leftanglebracket</string>
+          <string>rightanglebracket</string>
+          <string>commercialMinusSign</string>
+          <string>diagonalbarO</string>
+          <string>diagonalbarl</string>
+          <string>diagonalbaro</string>
+          <string>engn</string>
+          <string>engtail</string>
+          <string>horizontalbarH</string>
+          <string>horizontalbarlc</string>
+          <string>hornU</string>
+          <string>idotaccent</string>
+          <string>hornu</string>
+          <string>Iacute_J.loclNLD</string>
+          <string>iacute_j.loclNLD</string>
+          <string>Jacute.loclNLD</string>
+          <string>jacute.loclNLD</string>
+          <string>gravecombstack.case</string>
+          <string>acutecombstack.case</string>
+          <string>circumflexcombstack.case</string>
+          <string>tildecombstack.case</string>
+          <string>brevecombstack.case</string>
+          <string>hookabovecombstack.case</string>
+          <string>dieresiscombstack.case</string>
+          <string>macroncombstack.case</string>
+          <string>dotaccentcombstack.case</string>
+          <string>dollar.rvrn</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -634,6 +666,46 @@
       <real>0.5</real>
       <real>0.7</real>
     </array>
+    <key>com.typemytype.robofont.guideline.magnetic.4DI2FQBpnn</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.7Lp5ietFwB</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.ET2N0gwjEM</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.QALnJiLhhi</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.QRKceaxYOD</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.QdZpxXHqio</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.WIFN11OLLj</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.eoC8nyuWNS</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.jJfIYKOzzB</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.vbtbT3fBat</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.4DI2FQBpnn</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.7Lp5ietFwB</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.ET2N0gwjEM</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.QALnJiLhhi</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.QRKceaxYOD</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.QdZpxXHqio</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.WIFN11OLLj</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.eoC8nyuWNS</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.jJfIYKOzzB</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.vbtbT3fBat</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
@@ -1830,8 +1902,6 @@
       <string>fl</string>
       <string>f_f_i</string>
       <string>f_f_l</string>
-      <string>f_f_ij</string>
-      <string>f_ij</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
       <string>circumflexcomb.case</string>
@@ -1868,7 +1938,41 @@
       <string>nine.lf</string>
       <string>minute</string>
       <string>second</string>
-      <string>caron.alt</string>
+      <string>caroncomb.alt</string>
+      <string>Uhookabove</string>
+      <string>uhookabove</string>
+      <string>primemod</string>
+      <string>doubleprimemod</string>
+      <string>apostrophemod</string>
+      <string>hyphentwo</string>
+      <string>horizontalbar</string>
+      <string>leftanglebracket</string>
+      <string>rightanglebracket</string>
+      <string>commercialMinusSign</string>
+      <string>diagonalbarO</string>
+      <string>diagonalbarl</string>
+      <string>diagonalbaro</string>
+      <string>engn</string>
+      <string>engtail</string>
+      <string>horizontalbarH</string>
+      <string>horizontalbarlc</string>
+      <string>hornU</string>
+      <string>idotaccent</string>
+      <string>hornu</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>iacute_j.loclNLD</string>
+      <string>Jacute.loclNLD</string>
+      <string>jacute.loclNLD</string>
+      <string>gravecombstack.case</string>
+      <string>acutecombstack.case</string>
+      <string>circumflexcombstack.case</string>
+      <string>tildecombstack.case</string>
+      <string>brevecombstack.case</string>
+      <string>hookabovecombstack.case</string>
+      <string>dieresiscombstack.case</string>
+      <string>macroncombstack.case</string>
+      <string>dotaccentcombstack.case</string>
+      <string>dollar.rvrn</string>
     </array>
     <key>tnCurvePalet</key>
     <dict>

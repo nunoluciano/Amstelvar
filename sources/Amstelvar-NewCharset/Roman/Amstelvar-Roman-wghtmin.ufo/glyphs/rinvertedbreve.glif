@@ -4,12 +4,6 @@
   <unicode hex="0213"/>
   <outline>
     <component base="r"/>
-    <component base="breveinvertedcomb"/>
+    <component base="breveinvertedcomb" xOffset="-71.5" yOffset="9"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5333,0.7922,0.5255,1</string>
-    </dict>
-  </lib>
 </glyph>

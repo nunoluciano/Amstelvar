@@ -28,6 +28,8 @@
     <string>E_circumflextilde.glif</string>
     <key>Hbar</key>
     <string>H_bar.glif</string>
+    <key>Iacute_J.loclNLD</key>
+    <string>I_acute_J_.loclN_L_D_.glif</string>
     <key>Lcaron</key>
     <string>L_caron.glif</string>
     <key>Ocircumflexacute</key>
@@ -44,6 +46,8 @@
     <string>O_dotaccentmacron.glif</string>
     <key>Otildemacron</key>
     <string>O_tildemacron.glif</string>
+    <key>Thorn</key>
+    <string>T_horn.glif</string>
     <key>abreveacute</key>
     <string>abreveacute.glif</string>
     <key>abrevedotbelow</key>
@@ -72,6 +76,8 @@
     <string>brevecombstack.case.glif</string>
     <key>circumflexcombstack.case</key>
     <string>circumflexcombstack.case.glif</string>
+    <key>d</key>
+    <string>d.glif</string>
     <key>dieresiscombstack.case</key>
     <string>dieresiscombstack.case.glif</string>
     <key>dotaccentcombstack.case</key>
@@ -84,10 +90,6 @@
     <string>ecircumflexhookabove.glif</string>
     <key>ecircumflextilde</key>
     <string>ecircumflextilde.glif</string>
-    <key>f_f_ij</key>
-    <string>f_f_ij.glif</string>
-    <key>f_ij</key>
-    <string>f_ij.glif</string>
     <key>gcommaaccent</key>
     <string>gcommaaccent.glif</string>
     <key>gravecombstack.case</key>
@@ -96,6 +98,14 @@
     <string>hookabovecombstack.case.glif</string>
     <key>horizontalbarH</key>
     <string>horizontalbarH_.glif</string>
+    <key>hornU</key>
+    <string>hornU_.glif</string>
+    <key>iacute_j.loclNLD</key>
+    <string>iacute_j.loclN_L_D_.glif</string>
+    <key>ijacute</key>
+    <string>ijacute.glif</string>
+    <key>lcaron</key>
+    <string>lcaron.glif</string>
     <key>macroncombstack.case</key>
     <string>macroncombstack.case.glif</string>
     <key>ocircumflexacute</key>
@@ -112,6 +122,10 @@
     <string>odotaccentmacron.glif</string>
     <key>otildemacron</key>
     <string>otildemacron.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
+    <key>thorn</key>
+    <string>thorn.glif</string>
     <key>tildecombstack.case</key>
     <string>tildecombstack.case.glif</string>
   </dict>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="1024"/>
+  <advance width="830"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="70" y="46" type="line"/>
-      <point x="70" y="198" type="line"/>
-      <point x="874" y="198" type="line"/>
-      <point x="874" y="46" type="line"/>
+      <point x="126" y="46" type="line"/>
+      <point x="126" y="180" type="line"/>
+      <point x="826" y="180" type="line"/>
+      <point x="826" y="46" type="line"/>
     </contour>
     <contour>
       <point x="193" y="700" type="qcurve"/>
@@ -30,10 +30,4 @@
       <point x="193" y="700"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.2453,0.8091,1,1</string>
-    </dict>
-  </lib>
 </glyph>

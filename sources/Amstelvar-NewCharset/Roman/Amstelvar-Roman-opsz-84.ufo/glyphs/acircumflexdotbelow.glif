@@ -4,7 +4,7 @@
   <unicode hex="1EAD"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="-25.869230769230768" yOffset="-28.107692307692307"/>
-    <component base="dotbelowcomb" xOffset="-9.246153846153845"/>
+    <component base="circumflexcomb" xOffset="-62.91538461538461" yOffset="-17.546153846153846"/>
+    <component base="dotbelowcomb" xOffset="-62.91538461538461" yOffset="-14.107692307692307"/>
   </outline>
 </glyph>

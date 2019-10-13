@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevebelowcomb" format="2">
   <advance width="1024"/>
+  <unicode hex="032E"/>
   <outline>
     <contour>
       <point x="754" y="-100" type="qcurve"/>
@@ -19,10 +20,4 @@
       <point x="721" y="-152"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.9961,1,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>
